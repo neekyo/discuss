@@ -9,7 +9,6 @@ import {
   Input,
 } from '@nextui-org/react';
 import HeaderAuth from '@/components/header-auth';
-
 export default function Header() {
   return (
     <Navbar className="shadow mb-6">
